@@ -1,0 +1,3 @@
+# Tarea Repositorio - Ejercicios de clase
+**Autor:** Sergio
+**Descripción:** Repositorio con ejercicios organizados por bloques y el proyecto Forty.
